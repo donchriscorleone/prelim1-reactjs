@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prelim1-reactjs/static/css/main.a6b60cc9.chunk.css",
+    "main.js": "/prelim1-reactjs/static/js/main.091d6299.chunk.js",
+    "main.js.map": "/prelim1-reactjs/static/js/main.091d6299.chunk.js.map",
+    "runtime-main.js": "/prelim1-reactjs/static/js/runtime-main.8f508906.js",
+    "runtime-main.js.map": "/prelim1-reactjs/static/js/runtime-main.8f508906.js.map",
+    "static/js/2.9c167266.chunk.js": "/prelim1-reactjs/static/js/2.9c167266.chunk.js",
+    "static/js/2.9c167266.chunk.js.map": "/prelim1-reactjs/static/js/2.9c167266.chunk.js.map",
+    "index.html": "/prelim1-reactjs/index.html",
+    "static/css/main.a6b60cc9.chunk.css.map": "/prelim1-reactjs/static/css/main.a6b60cc9.chunk.css.map",
+    "static/js/2.9c167266.chunk.js.LICENSE.txt": "/prelim1-reactjs/static/js/2.9c167266.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f508906.js",
+    "static/js/2.9c167266.chunk.js",
+    "static/css/main.a6b60cc9.chunk.css",
+    "static/js/main.091d6299.chunk.js"
+  ]
+}
